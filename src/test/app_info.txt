@@ -1,0 +1,2 @@
+app id: a864c29e-ae26-4c91-9e1e-c66b6557d78a
+secret: gnw2abfitiMVAsrsU6vOPs6
